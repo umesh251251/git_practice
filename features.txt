@@ -1,3 +1,3 @@
 User registration work started
 Feature: Add task functionality
-Feature: List all tasks
+Feature: List all tasksFeature: Add new task
