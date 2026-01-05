@@ -1,1 +1,2 @@
 Commit A on master
+Feature commit 1
