@@ -1,3 +1,4 @@
 Commit A on master
 Commit B on master
 A
+B
